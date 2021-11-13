@@ -1,10 +1,14 @@
+@font-face {
+    font-family: Pollyester;
+    src: url(fonts/Pollyester/Pollyester.otf);
+}
 body{
     margin: 0;
     background-color: #030b24;
     font-family: essay-text, serif;
 }
 h1, h2{
-    font-family: sabbath-black, serif;
+    font-family: Pollyester, serif;
     color: #274C54;
 }
 h1{
