@@ -1,6 +1,7 @@
 body{
     margin: 0;
     background-color: #030b24;
+    font-family: essay-text, serif;
 }
 h1, h2{
     font-family: sabbath-black, serif;
@@ -31,6 +32,7 @@ p{
 .content{
     max-width: 60%;
     display: block;
+    margin-bottom:0 ;
     margin: auto;
     background-color: #ececbb;
 }
@@ -48,4 +50,8 @@ p{
 }
 .sub{
     text-align: center;
+}
+.bottom{
+    padding-bottom: 1rem;
+    margin-bottom: 0;
 }
