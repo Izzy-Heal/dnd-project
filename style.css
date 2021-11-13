@@ -1,3 +1,36 @@
+body{
+    margin: 0;
+    background-color: #030b24;
+}
 h1, h2{
     font-family: sabbath-black, serif;
+    color: #274C54;
+}
+h1{
+    font-size: 4rem;
+    text-align: center;
+    color: #274C54;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.year{
+    text-align: center;
+    color: #274C54;
+}
+h3{
+    font-family: hightower-text, serif;
+}
+p{
+    font-family: essay-text, serif;
+}
+.headr{
+    max-width: 100%;
+    display: block;
+    margin: auto;
+}
+.content{
+    max-width: 60%;
+    display: block;
+    margin: auto;
+    background-color: #ececbb;
 }
