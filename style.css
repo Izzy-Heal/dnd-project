@@ -1,6 +1,10 @@
 @font-face {
     font-family: Pollyester;
-    src: url(fonts/Pollyester/Pollyester.otf);
+    src: url(fonts/Pollyester/Pollyester.otf)
+}
+@font-face {
+    font-family: BlackBaron;
+    src: url(fonts/BlackBaron/Black-Baron\ Gothic.otf)
 }
 body{
     margin: 0;
@@ -27,6 +31,7 @@ h3, h4{
 }
 p{
     font-family: essay-text, serif;
+    max-width: 60ch;
 }
 .headr{
     max-width: 100%;
@@ -54,8 +59,25 @@ p{
 }
 .sub{
     text-align: center;
+    display: block;
+    margin: auto;
 }
 .bottom{
     padding-bottom: 1rem;
     margin-bottom: 0;
+}
+.bodtxt{
+    display: block;
+    margin: auto;
+    padding-bottom: 1rem;
+}
+.nav_cont{
+    display: flex;
+    justify-content: space-around;
+
+}
+.nav{
+    font-family: hightower-text, serif;
+    font-size: 1.2rem;
+    color: #000000;
 }
