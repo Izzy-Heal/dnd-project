@@ -1,6 +1,7 @@
 body{
     margin: 0;
     background-color: #030b24;
+    font-family: essay-text, serif;
 }
 h1, h2{
     font-family: sabbath-black, serif;
@@ -17,7 +18,7 @@ h1{
     text-align: center;
     color: #274C54;
 }
-h3{
+h3, h4{
     font-family: hightower-text, serif;
 }
 p{
@@ -31,6 +32,26 @@ p{
 .content{
     max-width: 60%;
     display: block;
+    margin-bottom:0 ;
     margin: auto;
     background-color: #ececbb;
+}
+.home_container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.break{
+    width: 100%;
+}
+.cont{
+    width: 25%;
+
+}
+.sub{
+    text-align: center;
+}
+.bottom{
+    padding-bottom: 1rem;
+    margin-bottom: 0;
 }
