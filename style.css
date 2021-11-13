@@ -17,7 +17,7 @@ h1{
     text-align: center;
     color: #274C54;
 }
-h3{
+h3, h4{
     font-family: hightower-text, serif;
 }
 p{
@@ -33,4 +33,19 @@ p{
     display: block;
     margin: auto;
     background-color: #ececbb;
+}
+.home_container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.break{
+    width: 100%;
+}
+.cont{
+    width: 25%;
+
+}
+.sub{
+    text-align: center;
 }
