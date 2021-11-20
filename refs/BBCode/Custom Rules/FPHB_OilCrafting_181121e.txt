@@ -1,0 +1,26 @@
+Grammarly doc: https://app.grammarly.com/ddocs/1368518606
+[h2]Crafting Oils[/h2]
+    [p]
+        The old ways tell of special decoctions, powerful alchemical brews meant for hunting beasts that stalked the world. The first huntsman left many detailed notes on slaying creatures, none more brutal than their blade oils. Over time, more powerful brews were concocted and their recipes recorded for specialized purposes.
+    [/p]
+[h2]Collecting components[/h2]
+    [p]
+        After slaying monsters, it is common to gather their parts for later use. Reagents are collected with a Survival check on a dead creature or by using alchemist's supplies to either search for botanic reagents with a Nature check on long rests or harvest blood from beasts with Animal Handling during downtime. You may increment your oil reagent pouch (listed below) towards completion with successfully harvested reagents.
+        [br]Potent reagents required for specific oils come from certain creatures or plants and must be tracked separately. Merchants may also carry ingredients for your oils.
+    [/p]
+[aloud]
+    [h3]Oil Reagent Pouch (0/3)[/h3]
+        [p]
+            10 sp. 10lbs
+            [br]An oil reagent pouch stores the necessary alchemical ingredients for oil crafting. Basic harvested components increment this pouch at your DM’s discretion. When this pouch is full, you can use it to craft an oil.
+        [/p]
+    [h3]Crafting an Oil[/h3]
+        [p]
+            Crafting an oil requires at least three items: alchemist's supplies, a full oil reagent pouch (3/3), and a potent regent listed in the oil’s ingredients. Once you have all three, you spend one hour brewing your intended oil. You will find a list of all oils with their potent reagents below.
+        [/p]
+[/aloud]
+[h2]Using an Oil[/h2]
+    [p]
+        As an action, you can apply an oil to a weapon. You may coat one melee weapon or up to 5 pieces of ranged ammunition in oil. Oils and most oil-based effects last for 1 minute. Using weapon oil consumes the entire oil. Using weapon oil removes any existing poison or oil on the weapon.
+    [/p]
+[img:2799384]

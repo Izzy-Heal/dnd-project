@@ -1,0 +1,7 @@
+Grammarly doc: https://app.grammarly.com/ddocs/1372078914
+[p]
+    Classes, subclasses, and spells from the following sourcebooks are legal for play: PHB, XGE, TCE, DMG, EGW*, FTD. Feats, psionics and classes that use them, and the Echo Knight subclass are banned from play. Spells of level 2 and lower which allow for a "free" long rest (e.g. by generating food and sustenance) consume their material components. Other spells may be allowed or banned at your DM's discretion.
+[/p]
+[p]
+    Classes and subclasses listed as playable on this website are legal, as are Matthew Colvilles Illrigger and Michael Wolf's [url=https://www.gmbinder.com/share/-LCger_-0N85d-tKgKRK]Shaman[/url]. 
+[/p]
