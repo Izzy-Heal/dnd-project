@@ -1234,7 +1234,7 @@ Melambai
   [br][i][b]Amphibious.[/i][/b] You can breathe air and water.
 
   [br][i][b]Spirits of the Sea.[/i][/b] Melambai are keenly attuned to the spirits of the sea, and you may call on them for aid. You gain spirit points equal to your proficiency bonus and regain them when you finish a long rest. To cast a spell using this trait, you spend spirit points equal to the spell's level. You can't increase a spell's level when casting with this trait.
-  You can invoke the spirits to cast [i]fog cloud[/i] as a 1st level spell. Starting at 3rd level, you can cast [i]ma’el’s geyser[/i] as a 2nd level spell, and starting at 5th level, you can cast [i]wall of water[/i] with this feature. Your spellcasting ability for these spells is Charisma.
+  You can invoke the spirits to cast [i]fog cloud[/i] as a 1st level spell. Starting at 3rd level, you can cast [i]ma’el’s geyser[/i] as a 2nd level spell, and starting at 5th level, you can cast [i]wall of water[/i] with this trait. Your spellcasting ability for these spells is Charisma.
   [/p] 
 
 

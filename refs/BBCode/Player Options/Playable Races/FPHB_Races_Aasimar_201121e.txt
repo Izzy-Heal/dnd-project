@@ -1,0 +1,61 @@
+[h2]Planar Souls[/h2]
+    [p]
+    Aasimar are usually the result of souls who have been touched by energies from the holiest plane of the gods. Often favored angels are directly created, but in rare cases favored champions are taken up by their patrons into the plane of Atlas, home of the gods. 
+    [br]Even more rarely, when the gods themselves travel to the planes of mortals, the Veil shifts and allows energies from Atlas to enter the world briefly, changing landscapes and creatures alike.
+    [/p]
+    [p]
+[h1]Playable Traits[/h1]
+    [p]
+        [i][b]Ability Score Increase.[/i][/b] Your Charisma increases by 2.
+    [/p]
+    [p]
+        [i][b]Age.[/i][/b] Aasimar mature at the same rate as humans, but they can live up to 160 years.
+    [/p]
+    [p]
+        [i][b]Size.[/i][/b] Aasimar vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.
+    [/p]
+    [p]
+        [i][b]Speed.[/i][/b] Your base walking speed is 30 feet. 
+    [/p]
+    [p]
+        [i][b]Languages.[/i][/b] You can speak, read, and write Common and Celestial.
+    [/p]
+    [p]
+        [i][b]Darkvision.[/i][/b] Blessed with a radiant soul, your vision can easily cut through the darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+    [/p]
+    [p]
+        [i][b]Celestial Resistance.[/i][/b] You have resistance to necrotic damage and radiant damage.
+    [/p]
+    [p]
+        [i][b]Healing Hands.[/i][/b] As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can't use it again until you finish a long rest.
+    [/p]
+    [p]
+        [i][b]Light Bearer.[/i][/b] You know the [i]light[/i] cantrip. Charisma is your spellcasting ability for it.
+    [/p]
+    [p]
+        [i][b]Subraces.[/i][/b] While no two aasimar are the same, they fall into a few select castes. Choose one of the following as your subrace.
+    [/p]
+[h3]Protector[/h3]
+    [p]
+        Aasimar who retain the favor of the holy planes. 
+    [/p]
+    [p]
+        [i][b]Ability Score Increase.[/i][/b] Your Wisdom increases by 1.
+    [/p]
+    [p]
+        [i][b]Radiant Soul.[/i][/b] Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing your eyes to glimmer and two luminous, incorporeal wings to sprout from your back.
+        [br]Your transformation lasts for 1 minute or until you end it as a bonus action. During it, you have a flying speed of 30 feet, and once on each of your turns, you can deal extra radiant damage equal to your level to one target when you damage it with an attack or a spell.
+        [br]Once you use this trait, you can't use it again until you finish a long rest.
+    [/p]
+[h3]Fallen[/h3]
+    [p]
+        Aasimar who have lost the favor of the holiest planes, either by being naturally wicked or being cast out by the gods for their actions.
+    [/p]
+    [p]
+        [i][b]Ability Score Increase.[/i][/b] Your Strength increases by 1.
+    [/p]
+    [p]
+        [i][b]Necrotic Shroud.[/i][/b] Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing your eyes to turn to pools of darkness and two skeletal, ghostly, flightless wings to sprout from your back. The instant you transform, other creatures within 10 feet of you that can see you must succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Charisma modifier) or become frightened of you until the end of your next turn.
+        [br]Your transformation lasts for 1 minute or until you end it as a bonus action. During it, once on each of your turns you can deal extra necrotic damage equal to your level to one target when you damage it with an attack or a spell. 
+        [br]Once you use this trait, you can't use it again until you finish a long rest.
+    [/p]
