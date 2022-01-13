@@ -63,13 +63,13 @@ p{
     margin: auto;
 }
 .bottom{
-    padding-bottom: 1rem;
+    padding-bottom: 2rem;
     margin-bottom: 0;
 }
 .bodtxt{
     display: block;
     margin: auto;
-    padding-bottom: 1rem;
+    padding-bottom: 0;
 }
 .nav_cont_top{
     display: flex;
@@ -111,4 +111,8 @@ a:active a:active{
 }
 .title{
     font-size: 2rem;
+}
+.contLst{
+margin-left: 25%;
+padding-bottom: 2rem;
 }
